@@ -1,0 +1,10 @@
+.env
+venv/
+travelplanner.egg-info/
+__pycache__/
+logs/
+src/__pycache__/
+src/chains/__pycache__/
+src/config/__pycache__/
+src/core/__pycache__/
+src/utils/__pycache__/
